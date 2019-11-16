@@ -5,6 +5,6 @@ public class Main {
         test();
     }
     public static void test() {
-        System.out.println("test");
+        System.out.println("For test purpose");
     }
 }
